@@ -20,14 +20,9 @@
     ],
     "Rock": [
       {
-        "nombres": ["Bohemian Rhapsody", "ボヘミアン・ラプソディ"],
+        "nombres": ["Bohemian Rhapsody"],
         "artista": "Queen",
-        "imagen": "https://linktoimage.com/image3.jpg"
-      },
-      {
-        "nombres": ["Smells Like Teen Spirit", "スメルズ・ライク・ティーン・スピリット"],
-        "artista": "Nirvana",
-        "imagen": "https://linktoimage.com/image4.jpg"
+        "imagen": ""
+        "youtube": "https://youtu.be/fJ9rUzIMcZQ?si=xPT3orbP6IsfvErD"
       }
-    ]
   }
