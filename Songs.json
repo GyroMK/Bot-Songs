@@ -6,9 +6,10 @@
         "imagen": "https://i1.sndcdn.com/artworks-000307188285-0t1bp0-t500x500.jpg"
       },
       {
-        "nombres": ["Rolling Girl", "ローリンガール"],
-        "artista": "Hatsune Miku",
-        "imagen": "https://i1.sndcdn.com/artworks-Lyiy8d2hkSX3qwy8-JVqoSA-t500x500.jpg"
+      "nombres": ["Rolling Girl", "ローリンガール"],
+      "artista": "",
+      "imagen": "",
+      "youtube": "https://www.youtube.com/watch?v=Fv6gx5_rDFM"
       }
     ],
     "Rock": [
