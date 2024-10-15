@@ -1,5 +1,5 @@
 {
-    "Vocaloid": [
+    "vocaloid": [
       {
         "nombres": ["World is Mine", "ワールドイズマイン"],
         "artista": "Hatsune Miku",
@@ -30,7 +30,7 @@
       "spotify": "https://open.spotify.com/intl-es/track/5vCNAauCaecW0tT2mZDLG9?si=1d42af6ece9f41e0"
       }
     ],
-    "Rock": [
+    "rock": [
       {
         "nombres": ["Bohemian Rhapsody"],
         "artista": "Queen",
@@ -38,7 +38,7 @@
         "youtube": "https://youtu.be/fJ9rUzIMcZQ"
       }
    ],
-    "Prueba": [
+    "prueba": [
       {
         "nombres": ["Miku"],
         "artista": "",
